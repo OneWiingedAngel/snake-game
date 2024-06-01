@@ -1,0 +1,19 @@
+#gameContainer{
+    text-align: center;
+}
+#gameCanvas{
+    border: 2px solid black;
+}
+#score{
+    font-family: "Permenant Narker", cursive;
+    font-size: 40px
+}
+#resetButton{    
+    font-family: "Permenant Narker", cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+}
